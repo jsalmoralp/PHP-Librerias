@@ -1,0 +1,15 @@
+{
+	"name" : "jsalmoralp/php-librerias",
+	"description" : "Librerias para facil manejo de PHP",
+	"type" : "library",
+	"authors" : [{
+			"name" : "Joan Salmoral Parramon",
+			"email" : "jsalmoralp@gmail.com"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"phpLibrerias\\" : "phpLibrerias"
+		}
+	}
+}
